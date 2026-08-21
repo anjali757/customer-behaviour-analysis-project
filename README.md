@@ -80,15 +80,15 @@ An interactive **Customer Behavior Dashboard** was built featuring:
 customer-shopping-behavior-analysis/
 │
 ├── data/
-│   └── customer_behaviour_data.csv
+        └── customer_behaviour_data.csv
 ├── notebooks/
-│   └── customer_behaviour.ipynb
+         └── customer_behaviour.ipynb
 ├── sql/
-│   └── customer_analysis_filee.sql
+         └── customer_analysis_filee.sql
 ├── dashboard/
-│   └── customer_behavior_dashboard.pbix
+         └── customer_behavior_dashboard.pbix
 ├── README.md
-└── customer_behaviour_analysis.pdf (description report)   and a presentation pdf
+          └── customer_behaviour_analysis.pdf (description report)   and a presentation pdf
 
 
 
